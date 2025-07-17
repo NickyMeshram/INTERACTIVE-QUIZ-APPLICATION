@@ -45,3 +45,13 @@ This type of quiz app can be used in many real-world scenarios. For example, it 
 Conclusion :-
 
 Building this quiz application gave me a strong understanding of how HTML, CSS, and JavaScript work together to create interactive web experiences. I learned how to structure code, manage logic flow, style UI elements, and deploy a live application. This task also gave me hands-on experience with Git and GitHub, which are essential tools in any developer's workflow. Overall, this project strengthened my core front-end development skills and taught me how to turn an idea into a working web application.
+
+OUTPUT:-
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/dec4549f-5296-44eb-bbc9-90c482b5ad2f" />
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/03112dd1-5e39-4ec7-b335-4aac52e8a993" />
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/adeaa2be-20a9-405f-93e0-92551ff0ded0" />
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/bc9daf76-e8b5-4def-b130-375baf009578" />
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/6f9eedf7-3369-442f-aab1-019de72eb88f" />
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/909ebb54-386e-421c-a480-5280f361a848" />
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/00df80f7-3728-4aa0-a4e8-fa7406e700bb" />
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/7d53c018-0ea0-4b9f-a1ff-b19de44e3955" />
